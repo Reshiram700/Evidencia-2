@@ -1,0 +1,13 @@
+﻿  Evidencia_2.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Alberto Iwakura\Documents\Proyects Visual Studio\C++\Evidencia_2\Evidencia_2\Evidencia_2.cpp(10,21): error C2039: "filesystem": no es un miembro de "std"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\unordered_map(23,1):
+  vea la declaración de 'std'
+  
+C:\Users\Alberto Iwakura\Documents\Proyects Visual Studio\C++\Evidencia_2\Evidencia_2\Evidencia_2.cpp(10,21): error C2878: 'filesystem': no existe un espacio de nombres o clase para este nombre
+C:\Users\Alberto Iwakura\Documents\Proyects Visual Studio\C++\Evidencia_2\Evidencia_2\Evidencia_2.cpp(71,30): error C2653: 'fs': no es un nombre de clase o espacio de nombres
+C:\Users\Alberto Iwakura\Documents\Proyects Visual Studio\C++\Evidencia_2\Evidencia_2\Evidencia_2.cpp(71,5): error C2530: 'entry': se deben inicializar las referencias
+C:\Users\Alberto Iwakura\Documents\Proyects Visual Studio\C++\Evidencia_2\Evidencia_2\Evidencia_2.cpp(71,5): error C3531: 'entry': un símbolo cuyo tipo contiene 'auto' debe tener un inicializador
+C:\Users\Alberto Iwakura\Documents\Proyects Visual Studio\C++\Evidencia_2\Evidencia_2\Evidencia_2.cpp(71,28): error C2143: error de sintaxis: falta ';' delante de ':'
+C:\Users\Alberto Iwakura\Documents\Proyects Visual Studio\C++\Evidencia_2\Evidencia_2\Evidencia_2.cpp(71,34): error C3861: 'directory_iterator': no se encontró el identificador
+C:\Users\Alberto Iwakura\Documents\Proyects Visual Studio\C++\Evidencia_2\Evidencia_2\Evidencia_2.cpp(71,64): error C2143: error de sintaxis: falta ';' delante de ')'
